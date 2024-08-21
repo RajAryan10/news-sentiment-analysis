@@ -1,0 +1,8 @@
+pandas
+tensorflow
+beautifulsoup4
+requests
+requests_html
+psycopg2
+transformers
+torch
